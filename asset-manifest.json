@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/serverLogApp-Demo/static/css/main.b5f70703.css",
+    "main.js": "/serverLogApp-Demo/static/js/main.a7e1a70f.js",
+    "index.html": "/serverLogApp-Demo/index.html",
+    "main.b5f70703.css.map": "/serverLogApp-Demo/static/css/main.b5f70703.css.map",
+    "main.a7e1a70f.js.map": "/serverLogApp-Demo/static/js/main.a7e1a70f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5f70703.css",
+    "static/js/main.a7e1a70f.js"
+  ]
+}
