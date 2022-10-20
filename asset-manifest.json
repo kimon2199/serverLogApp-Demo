@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/serverLogApp-Demo/static/css/main.b5f70703.css",
-    "main.js": "/serverLogApp-Demo/static/js/main.a7e1a70f.js",
-    "index.html": "/serverLogApp-Demo/index.html",
-    "main.b5f70703.css.map": "/serverLogApp-Demo/static/css/main.b5f70703.css.map",
-    "main.a7e1a70f.js.map": "/serverLogApp-Demo/static/js/main.a7e1a70f.js.map"
+    "main.css": "/static/css/main.b5f70703.css",
+    "main.js": "/static/js/main.b9571f70.js",
+    "index.html": "/index.html",
+    "main.b5f70703.css.map": "/static/css/main.b5f70703.css.map",
+    "main.b9571f70.js.map": "/static/js/main.b9571f70.js.map"
   },
   "entrypoints": [
     "static/css/main.b5f70703.css",
-    "static/js/main.a7e1a70f.js"
+    "static/js/main.b9571f70.js"
   ]
 }
